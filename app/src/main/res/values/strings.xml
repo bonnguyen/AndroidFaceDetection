@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Face Detection Demo</string>
+    <string name="text_require_time">Please wait and keep your face in 5s</string>
+</resources>
