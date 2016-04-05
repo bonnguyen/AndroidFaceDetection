@@ -50,7 +50,7 @@ dependencies {
 
 Quick Usage
 ===========
-Easy to integrate with your project. In your XML layout, you can put the UberSeekBar
+Easy to integrate with your project. In your XML layout, you can put the FaceDetectionView
 
 ```groovy
 <com.bonnguyen.camerafacedetection.FaceDetectionView
